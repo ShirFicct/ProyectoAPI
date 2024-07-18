@@ -90,4 +90,14 @@ h1 {
 .card-text {
     color: #666;
 }
+/*ajustes del carrusel*/
+.carousel-item img {
+    height: 400px; 
+    object-fit: cover; 
+}
 
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente para el texto del carrusel */
+    padding: 10px;
+    border-radius: 5px;
+}

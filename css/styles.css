@@ -78,7 +78,7 @@ header {
   font-family: inherit;
   width: 800px;
   cursor: pointer;
-  background-image: url('/ProyectoAPI/assets/buscar.png');
+  background-image: url('../assets/buscar.png');
   background-size: 30px 25px; /* Ajusta el tamaño del icono según sea necesario */
   background-position: 15px;
   background-repeat: no-repeat;
